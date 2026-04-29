@@ -4,8 +4,7 @@
 
 
 
-ReAct 、LLM、Prompt、LangChain
-
+ReAct 、LLM、Prompt、LangChain、LangGraph
 
 ![[Pasted image 20260427154829.png]]
 
@@ -25,3 +24,5 @@ ReAct 、LLM、Prompt、LangChain
 - 有没有把观测、检测、红队、安全、成本和用户干预整成闭环
 - 能不能把这些能力真正的接近产品，而不是停留在一段演示代码
 缺了这些、名字再响亮，多半仍然是一个带工具调用的聊天接口
+
+
